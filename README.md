@@ -13,10 +13,17 @@ Implemented algorithms:
 ### source for Graphics: ullaskunder3 (https://github.com/ullaskunder3)
 
 ### Read Important instructions to Build and Run this code in your PC.
-1.open Bash 
+1.open Bash
+<br>
 2.git clone https://github.com/Bhargav9940/CPU_Scheduling_Algorithm_C_Graphics.git
+<br>
 3.open folder which contains this repository files in Editor (VS Code)
+<br>
 4.Home->src->CpuAlgoFinalGraphicsC.cpp (open it)
+<br>
 5.Click Ctrl+Shift+B to Build a file
+<br>
 6.Executable file will be generated in Home->build
+<br>
 7.Run Executable
+
